@@ -13,9 +13,8 @@ dateFormat = "2 January 2006"
   [params.author]
   name = "Table Lamp Writer"
   image = "logo.png"
-  headline = "A generally awesome human"
+  headline = "Books, Computers, Physics, Productivity, Life and Everything in Between"
   bio = "A little bit about me"
 
     [[params.author.links]]
     instagram = "https://www.instagram.com/siam.rahman.29/"
-
