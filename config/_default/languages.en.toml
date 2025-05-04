@@ -10,12 +10,12 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 
-
   [params.author]
   name = "Table Lamp Writer"
-  img = "logo.png"
+  image = "logo.png"
   headline = "A generally awesome human"
   bio = "A little bit about me"
 
     [[params.author.links]]
     instagram = "https://www.instagram.com/siam.rahman.29/"
+
