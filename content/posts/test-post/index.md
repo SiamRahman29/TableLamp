@@ -6,3 +6,5 @@ title = 'Test Post'
 
 ## Introduction
 Hello World
+
+![Test photo](/feature.png)
