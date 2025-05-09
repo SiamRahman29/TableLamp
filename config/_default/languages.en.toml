@@ -18,3 +18,8 @@ dateFormat = "2 January 2006"
 
     [[params.author.links]]
     instagram = "https://www.instagram.com/siam.rahman.29/"
+
+["params.author"]
+name = "Siam Rahman"
+image = "ChatGPT Image May 9, 2025, 07_39_07 PM.png"
+headline = "Scio me nihil scire"
