@@ -1,20 +1,26 @@
++++
+date = '2025-05-12T07:04:17+06:00'
+draft = false
+title = 'Wallpaper Dump'
++++
+
 ![Abstract](Abstract.png)
 ![Astro](Astro.png)
-![Astronaut and Plants](feature-Astronaut and Plants.jpg)
+![Astronaut and Plants](feature-AstronautandPlants.jpg)
 ![Bassist](Bassist.jpg)
 ![Blackhole](Blackhole.png)
-![Cats Fishin](Cats Fishin.png)
+![Cats Fishin](CatsFishin.png)
 ![Howl](Howl.jpeg)
-![Ice Creame Wave](Ice Creame Wave.png)
+![Ice Creame Wave](IceCreamWave.png)
 ![Nasa](Nasa.png)
 ![Osborn](Osborn.png)
-![Pink Clouds](Pink Clouds.jpg)
-![Skulls and Flowers](Skulls and Flowers.png)
+![Pink Clouds](PinkClouds.jpg)
+![Skulls and Flowers](SkullsandFlowers.png)
 ![Snoopy](Snoopy.png)
 ![Space](Space.jpg)
 ![Star](Star.jpg)
-![Starry Night](Starry Night.jpg)
-![Sunset and Waves](Sunset and Waves.jpg)
+![Starry Night](StarryNight.jpg)
+![Sunset and Waves](SunsetandWaves.jpg)
 ![Tides](Tides.png)
-![Witcher 2](Witcher 2.jpg)
-![Witcher 3](Witcher 3.jpg)
+![Witcher 2](Witcher2.jpg)
+![Witcher 3](Witcher3.jpg)
