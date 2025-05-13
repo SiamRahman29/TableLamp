@@ -29,7 +29,7 @@ Snoopy is an aspirational figure. Change my mind.
 ![Starry Night](StarryNight.jpg)
 ![Sunset and Waves](SunsetandWaves.jpg)
 ![Tides](Tides.png)
-Loved it a lot and still do. Was a bit annoying after I saw the R and my eye kept going to it.
+Love this a lot and still do. Was a bit annoying after I saw the R and my eye kept going to it.
 ![Witcher 2](Witcher2.jpg)
 ![Witcher 3](Witcher3.jpg)
 Got these for my Witcher-fan-friend. He seemed to appreciate it
