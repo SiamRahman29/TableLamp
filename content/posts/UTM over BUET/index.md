@@ -32,10 +32,10 @@ Between December 2021 and April 2022, I was undecided. Before sitting for the BU
 
 In February 2022, I began studying online at BUET while continuing my studies at UTM. A part of me had already chosen BUET, and I told myself I was finishing the UTM semester simply because I’d worked hard for it. I communicated this uncertainty to my parents. Surprisingly, my mother—who usually has strong opinions about my choices—was okay with whatever I decided. My father, on the other hand, never explicitly endorsed UTM but kept asking me to think things through. Subtly, he revealed a preference for UTM.
 
-Eventually, in March 2022, while I was exhausted from writing chemistry lab reports for BUET’s online classes, I leaned into UTM. I had strong reasons both for and against BUET and UTM. But I picked a few good reasons in favor of UTM and told my father I wanted to continue there. He was visibly relieved.
+Eventually, in March 2022, while I was exhausted from writing chemistry lab reports for BUET’s "online practical classes", I leaned towards UTM. I had strong reasons both for and against BUET and UTM. So I picked a few good reasons in favor of UTM and told my father I wanted to continue there. He was visibly relieved.
 
 ## So Why?
 
-There were no overwhelmingly strong arguments for or against either BUET or UTM. UTM won because my father, whose opinions I trust, had a clear preference, and the part of me that felt confident was indifferent. That indifference came from a belief that I would do well wherever I went, and that I wouldn’t really miss anything.
+There were no overwhelmingly strong arguments for or against either BUET or UTM. UTM won because my father, whose opinions I trust, had a clear preference, and the part of me that felt confident was indifferent: an indifference that came from a belief that I would do well wherever I went, and that I wouldn’t really miss anything.
 
-My research came from websites, other people’s stories, and my own experiences studying online at both places. From what I could tell, I wasn’t losing much either way.
+My research came from websites, other people’s stories, and my own experiences studying online at both places. From what I could tell, I wasn’t losing much either way. So in the month of October 2022, I flew off to Kuala Lumpur.
