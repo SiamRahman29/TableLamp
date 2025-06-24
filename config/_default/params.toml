@@ -15,6 +15,7 @@ selineAnalytics = { }
 buymeacoffee = { }
 verification = { }
 rssnext = { }
+smartTOC = true
 
 [header]
 layout = "basic"
@@ -30,7 +31,7 @@ showScrollToTop = true
 layout = "profile"
 showRecent = true
 showAuthor = true
-showRecentItems = 5
+showRecentItems = "10"
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = false
