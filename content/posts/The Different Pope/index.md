@@ -1,10 +1,13 @@
-+++
-date = '2025-06-17T12:13:17+06:00'
-draft = false
-title = 'The Different Pope'
-+++
+---
+title: "The Different Pope"
+date: 2025-06-17
+draft: false
+description: "This is not a fluff piece"
+---
 
 In February 2019, His Holiness Pope Francis attended a Mass of over 150,000 people at the Zayed Sports City in the United Arab Emirates. It was the largest Christian gathering ever on the Arabian Peninsula—and why wouldn't it be? It was the first time in history a pope set foot on Arabian sands. The papacy is 2,000 years old, so if you can ignore the debates on where Saint Peter established it and what happened during the smudged parts of history, Pope Francis broke thousand-year-old traditions. In fact, that is not the only time he did so. However, I'm not here to write a hagiography. I'm here to write about the things he did differently—things that broke up some of the Vatican's power and brought it where it belonged: with the people.
+
+![His Holiness Pope Francis, Bishop of Rome, Vicar of Jesus Christ, Successor of the Prince of the Apostles, Supreme Pontiff of the Universal Church, Patriarch of the West, Primate of Italy, Archbishop and Metropolitan of the Roman Province, Sovereign of the Vatican City State, Servant of the servants of God](/feature.jpg)
 
 ## The Outsider
 

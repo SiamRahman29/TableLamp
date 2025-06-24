@@ -8,6 +8,8 @@ title = 'How LEGO Came Back from Its Worst Years'
 
 In 2003, LEGO posted a loss of $300 million. The company was virtually out of cash and was predicting a loss of $400 million the following year. A new millennium had begun, and LEGO was about to end.
 
+![LEGGGOOO](/feature.jpeg)
+
 ## But How Did We Get Here?
 
 LEGO was flourishing in the 1980s, with profits doubling every five years. This growth was largely driven by the baby boom that gave birth to Generation X. Every kid wanted LEGOs.
