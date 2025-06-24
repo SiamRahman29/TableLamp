@@ -8,7 +8,7 @@ title = 'Game Review: Spider-Man: Miles Morales'
 
 *Spider-Man: Miles Morales* is the second Spider-Man game from Insomniac Games. It follows the story of—yep, you guessed it—**Miles Morales**, as he begins his own journey as Spider-Man. 
 
-![Spider-Man with spiderman](/feature.jpg)
+![Spider-Man with spiderman](/feature.jpeg)
 
 The game opens with Miles working as Peter Parker’s sidekick, but that’s only during the first mission. After that, you play exclusively as Miles, while Peter is off on vacation. Though it’s Miles’ first time being the one and only Spider-Man, he doesn’t have time to take things slow. A new gang equipped with next-gen tech called **The Underground** has emerged. They're targeting **Roxxon**, the largest energy corporation in the world.
 
