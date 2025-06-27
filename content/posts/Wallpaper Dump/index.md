@@ -1,8 +1,9 @@
-+++
-date = '2025-05-12T07:04:17+06:00'
-draft = false
-title = 'Wallpaper Dump'
-+++
+---
+title: 'Wallpaper Dump'
+date: 2025-05-12
+draft: false
+summary: "Love scrolling desktop/phone wallpapers"
+---
 
 ![Abstract](Abstract.png)
 ![Astro](Astro.png)

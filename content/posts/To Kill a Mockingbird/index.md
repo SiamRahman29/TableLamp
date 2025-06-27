@@ -1,8 +1,9 @@
-+++
-date = '2025-05-04T12:13:17+06:00'
-draft = false
-title = 'Review: To Kill a Mockingbird'
-+++
+---
+title: 'Review: To Kill a Mockingbird'
+date: 2025-05-04
+draft: false
+summary: "Classic for a reason"
+---
 
 To Kill a Mockingbird is relevant still, 60 years after its release, and will probably be so for a long time. It might not seem so at first as the story takes place in 1960s rural America and is told in the voice of a young girl in primary school: which might be hard to relate to for some. The core message, however, resonates with all of us who have experienced adulthood.
 
