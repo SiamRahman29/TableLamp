@@ -19,7 +19,7 @@
     name = "About"
     pageRef = "about"
     weight = 2
-    url = "/about"
+    url = "about"
 
 # [[main]]
 #     name = "example sub-menu 1"
