@@ -1,8 +1,9 @@
-+++
-date = '2025-06-07T12:13:17+06:00'
-draft = false
-title = 'How LEGO Came Back from Its Worst Years'
-+++
+---
+title: 'How LEGO Came Back from Its Worst Years'
+date: 2025-06-07
+draft: false
+summary: "They listened"
+---
 
 ## The Crumbling Years
 

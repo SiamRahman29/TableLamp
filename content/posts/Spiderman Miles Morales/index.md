@@ -1,8 +1,9 @@
-+++
-date = '2025-06-11T12:13:17+06:00'
-draft = false
-title = 'Game Review: Spider-Man: Miles Morales'
-+++
+---
+title: "Game Review -> Spider-Man Miles Morales"
+date: 2025-06-06
+draft: false
+summary: "Has there ever been a Spider-Man game we hated?"
+---
 
 ## The Game
 
