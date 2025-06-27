@@ -2,7 +2,7 @@
 title: 'Wallpaper Dump'
 date: 2025-05-12
 draft: false
-summary: "Love scrolling desktop/phone wallpapers"
+summary: "Love scrolling wallpapers"
 ---
 
 ![Abstract](Abstract.png)
