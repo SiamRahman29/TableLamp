@@ -2,7 +2,7 @@
 title: 'Review: I Know Why the Caged Bird Sings'
 date: 2025-05-04
 draft: false
-summary: ""
+summary: "..."
 ---
 
 "At fifteen life had taught me undeniably that surrender in its place  was as honorable as resistance, especially if one had no choice."
