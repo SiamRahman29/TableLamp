@@ -13,12 +13,14 @@
 [[main]]
     name = "All Writings"
     pageRef = "posts"
-    weight = 10
+    weight = 1
 
-# [[main]]
-#     name = "Parent"
-#     weight = 20
-# 
+[[main]]
+    name = "About"
+    pageRef = "about"
+    weight = 2
+    url = "/about"
+
 # [[main]]
 #     name = "example sub-menu 1"
 #     parent = "Parent"
