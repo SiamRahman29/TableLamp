@@ -1,8 +1,9 @@
-+++
-date = '2025-05-04T12:13:17+06:00'
-draft = false
-title = 'Review: Peril at End House'
-+++
+---
+title: 'Review: Peril at End House'
+date: '2025-05-04T12:13:17+06:00'
+draft: false
+summary: "Like an usual Agatha Christie book: brilliant"
+---
 
 The story starts with a fairly used trope: the retiring detective. The extraordinary genius Hercule Poirot is looking to enjoy the quiet life with his contrasting partner Hastings. But their merriment halts abruptly when they meet Nick, a woman who has been through 4 attempted murders. 
 
