@@ -16,6 +16,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 [header]
 layout = "basic"
