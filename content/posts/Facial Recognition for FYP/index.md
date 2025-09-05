@@ -2,7 +2,7 @@
 title: 'How to Implement Facial Recognition with Python'
 date: 2025-09-03
 draft: false
-summary: "It's easier than you think"
+summary: "It is easier than you think it is"
 ---
 
 For my final year project at my university, I worked with a bus company in Malaysia called "Mara Liner". They were starting a philanthrophical/outreach project to transport Orang Asli children from remote areas of Johor, Perak, Pahang. For this system, Mara Liner planned to implement airtight transport tracking and school management system. I, alongside my friend Gaafar, worked on this system. I specifically focused on the systems relating to school management and as a part of it, I built a facial recognition based attendance recorder and verifier.
