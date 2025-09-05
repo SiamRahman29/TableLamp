@@ -2,7 +2,7 @@
 title: 'How to Implement Facial Recognition with Python'
 date: 2025-09-03
 draft: false
-summary: "It's easy"
+summary: "It's easier than you think"
 ---
 
 For my final year project at my university, I worked with a bus company in Malaysia called "Mara Liner". They were starting a philanthrophical/outreach project to transport Orang Asli children from remote areas of Johor, Perak, Pahang. For this system, Mara Liner planned to implement airtight transport tracking and school management system. I, alongside my friend Gaafar, worked on this system. I specifically focused on the systems relating to school management and as a part of it, I built a facial recognition based attendance recorder and verifier.
@@ -12,7 +12,7 @@ I used Django to build the whole system. For the frontend, I used HTML, CSS, and
 2. Backend: How I process and store the data
 3. Verification: How I do the verification/attendance-recording with the data I have stored
 
-## Step 1: Frontend - Webcam Integration and Image Capture
+## Frontend - Webcam Integration and Image Capture
 
 The frontend handles webcam access, live video streaming, and image capture using modern web APIs.
 
@@ -117,7 +117,7 @@ function showCustomAlert(message) {
 
 ---
 
-## Step 2: Django Backend - Form Processing and Data Storage
+## Django Backend - Form Processing and Data Storage
 
 The Django backend handles form submission, processes the captured image data, and extracts facial encodings for storage.
 
@@ -236,7 +236,7 @@ class Student(models.Model):
 
 ---
 
-## Step 3: Verification and Attendance Recording
+## Verification and Attendance Recording
 
 The final component uses stored face encodings to verify identity and record attendance automatically.
 
