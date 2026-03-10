@@ -10,7 +10,7 @@ On February 28, 2026, the United States and Israel attacked Iran. The US dubbed 
 
 Since then, there have been strikes and counter-strikes involving Iran, Israel, Lebanon, UAE, Saudi Arabia, Bahrain and Qatar. Many people all over the world are interpreting this conflict as an omen of world war 3. I have analyzed the ongoing conflict and the recent history of the main actors of the war to map out the possible endgames for all parties involved.
 
-### The United States
+### The United States' Possible Endgames
 
 #### Scenario 1: All Out Attack?
 
